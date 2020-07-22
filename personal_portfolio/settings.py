@@ -27,7 +27,7 @@ SECRET_KEY = '0*eki&3l4e^4z^=j#k2m47a9xj1u$m95q9=i&=20%l*686!3pg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://cheerfulleg.pythonanywhere.com/']
 
 
 # Application definition
